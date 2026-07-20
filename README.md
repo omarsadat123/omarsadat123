@@ -129,6 +129,7 @@ I work with a research mindset:
 
 - LinkedIn: [Omar Sadat](https://www.linkedin.com/in/omar-sadat-620769274)
 - GitHub: [omarsadat123](https://github.com/omarsadat123)
+- Email : omar.sadat042@gmail.com
 
 <p align="center">
   <i>Building useful software, one thoughtful project at a time.</i>
