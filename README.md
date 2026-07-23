@@ -1,4 +1,4 @@
-<h1 align="center">Omar Sadat</h1>
+<h1 align="center">Hi , I am Omar Sadat</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=180&section=header&text=Research%20Driven%20%7C%20Problem%20Solver%20%7C%20Builder&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" />
