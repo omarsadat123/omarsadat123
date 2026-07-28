@@ -90,7 +90,7 @@ My work sits at the intersection of:
 - **Hyperspectral** — paper/research workspace
 - **Applied AI exploration** — retrieval-augmented generation and problem-focused experimentation
 
-> Add your published papers, preprints, or conference work here when ready.
+
 
 ---
 
@@ -117,7 +117,7 @@ I work with a research mindset:
 
 ## <img src="https://img.icons8.com/ios-filled/20/94a3b8/target.png" alt="Current" /> Current focus
 
-- Research-oriented software development
+- Deep Learning and Computer Vision in Healthcare Research
 - AI and retrieval-augmented applications
 - Building stronger portfolio projects
 - Improving software engineering fundamentals
