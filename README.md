@@ -109,9 +109,10 @@ My work sits at the intersection of:
 I work with a research mindset:
 
 1. Understand the problem deeply
-2. Explore practical and technical approaches
-3. Build a solution that works in the real world
-4. Refine for usability, clarity, and impact
+2. Create a mind map 
+3. Explore practical and technical approaches
+4. Build a solution that works in the real world
+5. Refine for usability, clarity, and impact
 
 ---
 
