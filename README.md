@@ -21,9 +21,9 @@
 I’m a **research-driven software developer** and **computer science student** focused on solving real-world problems through practical engineering, applied research, and thoughtful product design.
 
 My work sits at the intersection of:
-- software engineering
-- AI and retrieval-augmented generation
 - research-oriented experimentation
+- AI and retrieval-augmented generation
+- Data analysis 
 - systems and workflow tools
 - useful, real-world applications
 
