@@ -44,7 +44,7 @@ My work sits at the intersection of:
 | Project | What it does |
 |---|---|
 | [Sign-Language-Analysis](https://github.com/omarsadat123/Sign-Language-Analysis) | Sign Analysis and Prediction |
-| [Thesis-Direct-Research-CSE491](https://github.com/omarsadat123/Thesis-Direct-Research-CSE491) | Research-oriented notebook work |
+| [Direct-Research-CSE491](https://github.com/omarsadat123/Thesis-Direct-Research-CSE491) | Research-oriented notebook work |
 | [Dhaka-Weather-Forecast](https://github.com/omarsadat123/Dhaka-Weather-Forecast) | Weather analysis and forecasting project |
 | [ProCollab-Collaborative-Task-Manager](https://github.com/omarsadat123/ProCollab-Collaborative-Task-Manager) | Collaborative task management platform |
 | [Recommendation-Letter-Generator-RAG](https://github.com/omarsadat123/Recommendation-Letter-Generator-RAG) | Retrieval-augmented recommendation letter generation |
